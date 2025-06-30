@@ -24,6 +24,11 @@ Este repositório contém os artefatos e resultados do laboratório prático sob
 🧠 **Azure Language Studio** 
 – análise linguística e NLU
 
+## 📊 Insights 
+
+1. [Speech Studio](/speech_studio/speech_studio.md)
+2. [Language Studio](/language_studio/language_studio.md)
+
 ## 🚀 Como Usar
 
 1. Clone este repositório:
