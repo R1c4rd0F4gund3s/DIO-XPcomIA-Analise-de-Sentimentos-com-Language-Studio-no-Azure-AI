@@ -11,7 +11,11 @@ Este documento apresenta a análise de sentimento e mineração de opiniões rea
     * **Positivo:** ✅ 30.00%
     * **Neutro:** 😐 4.00%
     * **Negativo:** 🔴 65.00%
-
+<img src="https://github.com/R1c4rd0F4gund3s/DIO-XPcomIA-Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/language_studio/resultados/images/language_studio.png" alt="Language Studio Img1" width="1000"/>
+---
+<img src="https://github.com/R1c4rd0F4gund3s/DIO-XPcomIA-Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/language_studio/resultados/images/language_studio2.png" alt="Language Studio Img1" width="1000"/>
+---
+<img src="https://github.com/R1c4rd0F4gund3s/DIO-XPcomIA-Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/language_studio/resultados/images/language_studio3.png" alt="Language Studio Img1" width="1000"/>
 ---
 
 ## 📝 Análise de Sentimento e Mineração de Opiniões por Sentença
