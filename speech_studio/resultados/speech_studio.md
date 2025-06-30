@@ -6,8 +6,6 @@ Este documento apresenta uma análise detalhada das imagens fornecidas, que ilus
 
 ## 1. 🚀 Visão Geral do Azure AI Speech Studio
 
-A primeira imagem (`Speech_studio.jpg`) oferece um panorama abrangente das principais capacidades do Azure AI Speech Studio, organizadas por cenário de aplicação:
-
 * **Legendas com Fala para Texto:** 🗣️➡️📝
     * **Descrição:** Converte o conteúdo de áudio de diversas fontes (como transmissões de TV 📺, webcasts 🌐, filmes 🎬, vídeos 🎥 e eventos ao vivo 🎤) em texto.
     * **Finalidade:** Aumentar a **acessibilidade** ♿ do conteúdo, gerando legendas precisas.
@@ -28,7 +26,7 @@ A primeira imagem (`Speech_studio.jpg`) oferece um panorama abrangente das princ
 
 ## 2. 🎤 Demonstração de Fala para Texto em Tempo Real
 
-A segunda imagem (`Speech_studio1.png`) ilustra uma demonstração prática da funcionalidade "Real-time speech to text" (versão 1.36.0), destacando a conversão de áudio em texto.
+
 
 * **Plataformas Suportadas:** ☁️ Nuvem e 📦 Docker container.
 * **Idioma Selecionado para Transcrição:** 🌐 Inglês (Estados Unidos) 🇺🇸.
