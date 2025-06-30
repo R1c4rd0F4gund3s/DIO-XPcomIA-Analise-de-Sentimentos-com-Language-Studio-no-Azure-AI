@@ -26,7 +26,8 @@ Este documento apresenta uma análise detalhada das imagens fornecidas, que ilus
 
 ## 2. 🎤 Demonstração de Fala para Texto em Tempo Real
 
-
+<img src="https://github.com/R1c4rd0F4gund3s/DIO-XPcomIA-Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/speech_studio/resultados/images/speech_studio.gif" alt="Language Studio Img1" width="1000"/>
+---
 
 * **Plataformas Suportadas:** ☁️ Nuvem e 📦 Docker container.
 * **Idioma Selecionado para Transcrição:** 🌐 Inglês (Estados Unidos) 🇺🇸.
