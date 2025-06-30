@@ -12,8 +12,10 @@ Este repositório contém os artefatos e resultados do laboratório prático sob
 
 - `docs/`: documentação complementar.
 - `speech_studio/`: scripts e saídas do Speech Studio.
+- `speech_studio/imagens/`: capturas, gráficos e ilustrações do laboratório.
+- `speech_studio/files/`: arquivo de audio utilizado no laboratório.
 - `language_studio/`: scripts e saídas do Language Studio.
-- `imagens/`: capturas, gráficos e ilustrações do laboratório.
+- `language_studio/imagens/`: capturas, gráficos e ilustrações do laboratório.
 
 ## 🔧 Tecnologias Utilizadas
 
