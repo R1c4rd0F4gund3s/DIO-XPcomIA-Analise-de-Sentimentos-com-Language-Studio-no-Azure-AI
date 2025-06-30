@@ -10,7 +10,6 @@ Este repositório contém os artefatos e resultados do laboratório prático sob
 
 ## 📁 Estrutura do Repositório
 
-- `docs/`: documentação complementar.
 - `speech_studio/`: scripts e saídas do Speech Studio.
 - `speech_studio/imagens/`: capturas, gráficos e ilustrações do laboratório.
 - `speech_studio/files/`: arquivo de audio utilizado no laboratório.
